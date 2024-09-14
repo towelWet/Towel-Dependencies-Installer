@@ -87,7 +87,7 @@ The Towel Dependency Installer manages the following Python packages:
 
 ## Screenshots
 
-*(Screenshots can be added here to illustrate the application's interface and features.)*
+<img width="581" alt="Screen Shot 2024-09-14 at 6 32 50 AM" src="https://github.com/user-attachments/assets/482412ef-0946-4cfa-8ff3-f9edcfe69e4a">
 
 ## Notes
 
