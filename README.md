@@ -42,20 +42,20 @@ The Towel Dependency Installer manages the following Python packages:
 
 1. **Download the Script**
 
-   Download the `towel_dependency_installer.py` script from the repository or source where it's provided.
+   Download the `tdi.py` script from the repository or source where it's provided.
 
 2. **Run the Script**
 
    Open a terminal or command prompt, navigate to the directory containing the script, and run:
 
    ```bash
-   python towel_dependency_installer.py
+   python tdi.py
    ```
 
    Or, if using Python 3:
 
    ```bash
-   python3 towel_dependency_installer.py
+   python3 tdi.py
    ```
 
 ## Usage
