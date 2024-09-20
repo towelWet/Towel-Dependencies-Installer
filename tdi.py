@@ -24,7 +24,12 @@ packages = [
     'transformers',
     'tqdm',
     'moviepy',
-    'imageio'
+    'imageio',
+    'streamlit',
+    'plotly',
+    'cryptography',
+    'matplotlib',
+    'seaborn'
 ]
 
 # Initialize the main window
