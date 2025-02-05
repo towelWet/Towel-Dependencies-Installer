@@ -103,5 +103,4 @@ The Towel Dependency Installer manages the following Python packages:
 
 NEED TO ADD:
 obfuscation_detection
-pip install torch
-
+torch
