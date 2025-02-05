@@ -100,3 +100,7 @@ The Towel Dependency Installer manages the following Python packages:
 - **pip Not Found**: If the application cannot find `pip` or `pip3`, ensure they are installed and added to your system's PATH.
 - **Permission Errors**: Run the application with administrator or root privileges if you encounter permission issues.
 - **Failed Installations**: The terminal output area will display any errors during the installation or uninstallation process.
+
+NEED TO ADD:
+obfuscation_detection
+
